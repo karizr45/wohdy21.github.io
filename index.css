@@ -1,0 +1,51 @@
+/* Прямоугольник 9 */
+
+body{height:100%;
+    width:100%;
+    background: rgb(77, 77, 77);}
+
+
+#rectangle {
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    height:98%;
+    width:98%;
+    left: 1%;
+    right: 1%;
+    top: 1%;
+    bottom: 1%;}
+
+#rectangle2 {
+    border-radius: 10px;
+    background: rgb(46, 46, 46);
+    position: absolute;
+    height:10%;
+    width:98%;
+    left: 1%;
+    right: 1%;
+    top: 1%;
+    bottom: 1%;}
+
+h1, h2{
+position: absolute;
+left: 5%;
+right: 1%;
+top: 11%;
+bottom: 1%;
+font-family: verdana;
+color:rgb(0, 0, 0)
+}
+
+#icon{
+    border-radius: 20px;
+    position: absolute;
+    left: 50px;
+    right: auto;
+    top: 16%;
+    bottom: 1%;
+    height:10%;
+    width: 10%;
+    background: rgb(46, 46, 46);
+}
+        
